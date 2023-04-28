@@ -19,4 +19,10 @@ We also copyed the encrypted password of user1 and put it in a txt file("passwor
 than we used john to brute-force user 1:
 ![image](https://user-images.githubusercontent.com/42152443/235122699-fc295012-5a0f-4b4c-bd89-750df8c36de4.png)
 
-we can see that the password is"BenGurion"
+we can see that the password is "BenGurion", and that john discoverd user6 password
+![image](https://user-images.githubusercontent.com/42152443/235125326-87c68c1a-c558-48f8-bb8a-103c4e80e9ba.png)
+
+you can also see it using john --show
+![image](https://user-images.githubusercontent.com/42152443/235125908-9089478f-45bb-47d8-98e3-6486ba8fb410.png)
+
+Thats the End :)
